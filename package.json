@@ -1,0 +1,19 @@
+{
+  "name": "promi-template",
+  "version": "1.0.0",
+  "description": "This is a promi template.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/promidigitals/promi-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/promidigitals/promi-template/issues"
+  },
+  "homepage": "https://github.com/promidigitals/promi-template#readme"
+}
