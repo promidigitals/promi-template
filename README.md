@@ -1,2 +1,2 @@
 # promi-template
-# test 123
+This is a promi template.
